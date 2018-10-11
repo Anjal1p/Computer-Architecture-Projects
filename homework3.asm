@@ -1,5 +1,4 @@
 # Name: Anjali Prabhala
-# NetID: axp171330
 # Assignment: HW 3
 # Class: CS 3340 - 502
 
